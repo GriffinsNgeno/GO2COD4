@@ -17,12 +17,12 @@ A visually appealing and fully responsive image gallery designed to provide a se
 
 1. Clone the Repository  
    ```bash  
-   git clone https://github.com/your-username/responsive-image-gallery.git  
+   git clone https://github.com/GriffinsNgeno/GO2COD4.git
    ```  
 
 2. Navigate to the Project Folder
    ```bash  
-   cd responsive-image-gallery  
+   cd GO2COD4  
    ```  
 
 3. Open the Project
@@ -33,7 +33,7 @@ A visually appealing and fully responsive image gallery designed to provide a se
 - Modify the `styles.css` file to change colors, grid dimensions, or effects.  
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/responsive-image-gallery/issues).  
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/GriffinsNgeno/GO2COD4/issues).  
 
 ## 📄 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
