@@ -6,7 +6,7 @@ A visually appealing and fully responsive image gallery designed to provide a se
 - Grid Layout: Organizes images into a clean, structured grid for easy navigation.  
 - Fully Responsive: Ensures optimal viewing across devices of all screen sizes.  
 - Hover Effects: Interactive effects on image hover for a modern touch.  
-- Lightbox View**: Click on any image to view it in an expanded format with navigation controls.  
+- Lightbox View: Click on any image to view it in an expanded format with navigation controls.  
 
 ## 🛠 Technologies Used
 - HTML: For the structure of the gallery.  
